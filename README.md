@@ -32,16 +32,16 @@ Lab #4 Grade: 2
 
 Lab #5 Grade: 0
 
-Enter your grades for Midterm #1 and Midterm #2
+Enter your grades for midterm #1 and midterm #2
 
 Midterm #1: 7.5
 
 Midterm #2: 3
 
-Current Numeric Grade: 84
+Current numeric Grade: 84
 
-Current Letter Grade: B
+Current letter Grade: B
 
-Highest Possible Numeric Grade given current scores: 87
+Highest possible numeric grade given current scores: 87
 
-Highest possible Letter Grade given current scores: B
+Highest possible letter grade given current scores: B
