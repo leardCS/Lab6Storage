@@ -35,7 +35,7 @@ public class Lab6 {
 		}
 		
 		DecimalFormat df = new DecimalFormat("0");
-		System.out.println("\nEnter your grades for Midterm #1 and Midterm #2");
+		System.out.println("\nEnter your grades for midterm #1 and midterm #2");
 		System.out.print("Midterm #1: ");
 		midTerms[0] = userInput.nextDouble();
 		System.out.print("Midterm #2: ");
@@ -49,8 +49,8 @@ public class Lab6 {
 		else if(totalGrade >= 60 && totalGrade < 70) {letterGrade = 'D';}
 		else {letterGrade = 'F';}
 		
-		System.out.print("\nCurrent Numeric Grade: " + (df.format(totalGrade)));
-		System.out.print("\nCurrent Letter Grade: " + letterGrade);
+		System.out.print("\nCurrent numeric Grade: " + (df.format(totalGrade)));
+		System.out.print("\nCurrent letter Grade: " + letterGrade);
 		
 		currentGrade = currentGrade + 4 + 12 + 20; //2 Labs remaining = 4 total points, 2 Practice Problems remaining = 12 total points, 1 final exam = 20 total points
 		totalGrade = (int)((currentGrade/totalPoints)*100);
@@ -59,8 +59,8 @@ public class Lab6 {
 		else if(totalGrade >= 70 && totalGrade < 80) {letterGrade = 'C';}
 		else if(totalGrade >= 60 && totalGrade < 70) {letterGrade = 'D';}
 		else {letterGrade = 'F';}
-		System.out.print("\n\nHighest Possible Numeric Grade given current scores: " + df.format(totalGrade));
-		System.out.print("\nHighest possible Letter Grade given current scores: " + letterGrade);
+		System.out.print("\n\nHighest possible numeric grade given current scores: " + df.format(totalGrade));
+		System.out.print("\nHighest possible Letter grade given current scores: " + letterGrade);
 		
 	}
 
