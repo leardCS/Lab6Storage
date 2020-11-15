@@ -7,26 +7,41 @@ Taking into account the current grades, the calculator will then calculate the h
 Example execute with my current grades of the CISC 3130 grade calculator:
 
 Enter the # of Practice Problem assignments you have submitted: 6
+
 Practice Problems #1 Grade: 4
+
 Practice Problems #2 Grade: 6
+
 Practice Problems #3 Grade: 6
+
 Practice Problems #4 Grade: 6
+
 Practice Problems #5 Grade: 6
+
 Practice Problems #6 Grade: 6
 
 Enter the # of Labs you have submitted so far: 5
+
 Lab #1 Grade: 1
+
 Lab #2 Grade: 2
+
 Lab #3 Grade: 2
+
 Lab #4 Grade: 2
+
 Lab #5 Grade: 0
 
 Enter your grades for Midterm #1 and Midterm #2
+
 Midterm #1: 7.5
+
 Midterm #2: 3
 
 Current Numeric Grade: 84
+
 Current Letter Grade: B
 
 Highest Possible Numeric Grade given current scores: 87
+
 Highest possible Letter Grade given current scores: B
